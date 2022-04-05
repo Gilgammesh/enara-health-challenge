@@ -1,8 +1,8 @@
 # Enara Health - Fullstack Challenge
 
-All instructions to complpete the challenge can be found at: 
+All instructions to complete the challenge can be found at: 
 
-[`instructions`](https://github.com/baytelman/fullstack-interview)
+[`instructions challenge`](https://github.com/baytelman/fullstack-interview)
 
 ## Installing dependencies
 
